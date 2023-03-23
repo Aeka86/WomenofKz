@@ -47,13 +47,13 @@ html {
     text-decoration: none;
     font-weight: bold;
     text-align: center;
-    padding: 15px;
+    padding: 17px;
   }
   a:hover {
     text-decoration: none;
     color: #444140;
    background: #B0D0D3;
-   border-radius: 5px;
+   border-radius: 8px;
   }
 /* About Section */
 
@@ -83,7 +83,7 @@ h2 {
   height: 100vh;
 }
 
-/* animated arrow */
+/* Animated Arrow */
 
 .arrow {
   box-sizing: border-box;
