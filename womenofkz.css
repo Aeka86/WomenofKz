@@ -14,6 +14,10 @@ html {
     font-size: 15px;
     line-height: 1.5;
     width: 100%;
+    background-image: url("https://lh3.googleusercontent.com/2hqLwPlYf2tNujKCC9LkGqTfLbaSj92jMcfiN-fxrnaf58L-iLM796Yn10tyWYLK2QhapFkWKuEHdciwvATPxL2NdeUMfYblvth0cwiREyXQqPI_wtCWoRl49juf3toAVKXpj1xN-XM=w2400");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
   }
 
   ul {
@@ -21,7 +25,7 @@ html {
     display: flex;
     list-style: none;
     padding: 25px 80px;
-    justify-content: center;
+    justify-content: space-around;
     
   }
   .nav {
@@ -43,7 +47,7 @@ html {
     text-decoration: none;
     font-weight: bold;
     text-align: center;
-    padding: 10px;
+    padding: 15px;
   }
   a:hover {
     text-decoration: none;
@@ -52,8 +56,6 @@ html {
    border-radius: 5px;
   }
 /* About Section */
-
-
 
 h1 {
   font-size: 100px;
@@ -69,11 +71,12 @@ h2 {
   margin: 0;
 }
 .content-wrap {
-  max-width: 420px;
-  width: 85%;
+  max-width: 120%;
+  width: 80%;
   margin: 0 auto;
-  padding: 150px 0;
-  color: #444140;
+  padding: 12%;
+  color: #fff;
+  text-align: center;
 }
 
 #about-section {
