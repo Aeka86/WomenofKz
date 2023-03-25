@@ -15,7 +15,7 @@ html {
     line-height: 1.5;
     width: 100%;
     background-image: url("https://lh3.googleusercontent.com/2hqLwPlYf2tNujKCC9LkGqTfLbaSj92jMcfiN-fxrnaf58L-iLM796Yn10tyWYLK2QhapFkWKuEHdciwvATPxL2NdeUMfYblvth0cwiREyXQqPI_wtCWoRl49juf3toAVKXpj1xN-XM=w2400");
-    background-size: 190% auto;
+    background-size: 210% auto;
     background-repeat: no-repeat;
     background-position: center;
   }
@@ -80,7 +80,7 @@ h2 {
   
 }
 
-#about-section {
+#about {
   height: 100vh;
 }
 
@@ -119,5 +119,5 @@ h2 {
 
 .about {
   text-align: left;
-  padding-bottom: 5%;
+  padding-bottom: 2%;
 }
