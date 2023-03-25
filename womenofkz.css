@@ -15,7 +15,7 @@ html {
     line-height: 1.5;
     width: 100%;
     background-image: url("https://lh3.googleusercontent.com/2hqLwPlYf2tNujKCC9LkGqTfLbaSj92jMcfiN-fxrnaf58L-iLM796Yn10tyWYLK2QhapFkWKuEHdciwvATPxL2NdeUMfYblvth0cwiREyXQqPI_wtCWoRl49juf3toAVKXpj1xN-XM=w2400");
-    background-size: cover;
+    background-size: ;
     background-repeat: no-repeat;
     background-position: center;
   }
@@ -112,4 +112,10 @@ h2 {
 .box_container a {
   background: none;
 
+}
+
+/* About Section */
+
+.about {
+  text-align: left;
 }
